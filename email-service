@@ -1,0 +1,15 @@
+server.port=8087
+spring.mail.default-encoding=UTF-8
+spring.mail.host=smtp.gmail.com
+spring.mail.username=connect2kidoscare@gmail.com
+spring.mail.password=yttvfbqonotgjsoj
+spring.mail.port=587
+spring.mail.protocol=smtp
+spring.mail.test-connection=false
+spring.mail.properties.mail.smtp.auth=true
+spring.mail.properties.mail.smtp.starttls.enable=true
+eureka.client.register-with-eureka=true
+eureka.client.fetch-registry=true
+eureka.client.service-url.defaultZone= http://localhost:8761/eureka/
+eureka.instance.hostname=localhost
+spring.application.name=EMAIL-SERVICE
