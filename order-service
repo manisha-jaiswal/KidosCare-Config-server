@@ -3,7 +3,7 @@ server.port=8086
 #MongoDB Properties
 spring.data.mongodb.host=localhost
 spring.data.mongodb.port=27017
-spring.data.mongodb.database=Kidos-Care
+spring.data.mongodb.database=KidosCare
 spring.datasource.driver-class= mongodb.jdbc.MongoDriver
 
 ##RabbitMQ
