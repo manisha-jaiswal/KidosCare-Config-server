@@ -2,7 +2,7 @@
 
 spring.datasource.url = jdbc:mysql://localhost:3306/SecurityUserDB
 spring.datasource.username = root
-spring.datasource.password = root
+spring.datasource.password = Mg@800297
 
 #hibernate properties
 #MySQL dialect
